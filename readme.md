@@ -3,11 +3,11 @@ Candidate should write a scala program to determine the missing invoices based o
 Sample input is given below.
 
 Input Records:
-============================================
-Category|ProdID|StartInvoiceNo|EndInvoiceNo
-============================================
-1|A|101|104
---------------------------------------------
+
+Category ProdID StartInvoiceNo EndInvoiceNo
+
+1 A 101 104
+
 1 B 106 107
 
 2 A 201 205
